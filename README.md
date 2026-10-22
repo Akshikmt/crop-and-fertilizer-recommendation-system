@@ -3,6 +3,8 @@
 
 This project is a Machine Learning-based web application that recommends the most suitable crop and fertilizer based on soil nutrients and environmental conditions. The system is designed to assist farmers and users in making better agricultural decisions.
 
+**live demo:** https://croppo.streamlit.app/
+
 ## **❗ Problem Statement**
 
 Choosing the right crop and fertilizer is challenging due to lack of proper knowledge about soil conditions and environmental factors. This often results in low productivity and inefficient farming.
